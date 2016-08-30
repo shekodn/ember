@@ -1,0 +1,1 @@
+/Users/SDN/sdn/workspace/ember/ember/library-app/tmp/funnel-input_base_path-aLf5dx5o.tmp/0/router.js

@@ -1,0 +1,1 @@
+/Users/SDN/sdn/workspace/ember/ember/library-app/tmp/funnel-input_base_path-GGH9Hf2F.tmp/0/lib/helpers/singularize.js
